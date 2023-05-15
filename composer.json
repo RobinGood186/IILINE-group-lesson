@@ -1,0 +1,6 @@
+{
+  "require": {
+    "amocrm/amocrm-api-library": "^0.13.0",
+    "google/apiclient": "^2.0"
+  }
+}
